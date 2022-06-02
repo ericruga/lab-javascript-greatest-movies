@@ -1,4 +1,5 @@
 // The `movies` array from the file `src/data.js`.
+const movies = require('./data');
 console.log('movies: ', movies);
 
 
